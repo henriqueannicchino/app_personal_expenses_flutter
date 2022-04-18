@@ -1,4 +1,4 @@
-# expenses
+# Personal expenses 
 
 A new Flutter project.
 
